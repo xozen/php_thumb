@@ -1,5 +1,5 @@
-# php_thumb
-PHP Image thumbnail maker
+# php_thumb_mini
+Simple PHP image thumbnail maker
 
 phpThumb (http://phpthumb.sourceforge.net/) 프로그램과 동일한 기능을 합니다.
 src, w, h, q, zc 옵션등 동일하게 사용 가능합니다.
